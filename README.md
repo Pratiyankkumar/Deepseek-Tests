@@ -12,8 +12,8 @@ A test that verify the correctness and performance of implementations across ori
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fp8-refactor-verification.git
-cd fp8-refactor-verification
+git clone https://github.com/Pratiyankkumar/Deepseek-Tests
+cd Deepseek-Tests
 ```
 
 2. Create and activate a virtual environment (recommended):
