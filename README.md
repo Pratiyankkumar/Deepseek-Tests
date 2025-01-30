@@ -26,6 +26,10 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
+3. Run Test:
+```bash
+python3 verification_tests.py
+```
 
 ## Project Structure
 
